@@ -1,0 +1,31 @@
+.navbar-brand{
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand>.brand-container{
+    width: 50px;
+    margin-right: 20px;
+}
+
+.navbar-brand>.brand-container>.brand{
+    width: 100%;
+}
+
+.navbar-brand>.brand-caption>.title{
+    font-weight: bold;
+    margin: 0;
+}
+
+.navbar-brand>.brand-caption>.caption{
+    color: #9c9c9c;
+    margin: 0;
+}
+
+.bg-success{
+    background-color: #00796B !important;
+}
+
+.bg-secondary{
+    background-color: #FFB300 !important;
+}
